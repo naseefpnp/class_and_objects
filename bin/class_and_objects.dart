@@ -32,19 +32,11 @@ void main(){
 
   students st2 = students();
   print("student 2 details");
-  print("name =${st2.name ="faris"}");
-  print("age =${st2.age =21}");
-  print("email =${st2.email ="fr751006@gmail.com"}");
+  print("name = ${"maqswood"}");
+  print("age = ${st2.age =20}");
+  print("email =${st2.email="maqswood21@gmail.com"}");
+  
 
-  students st3 = students();
-  print("student 3 details");
-  print("name =${st3.name ="ram"}");
-  print("age =${st3.age =20}");
-  print("email =${st3.email ="oops98546@gmail.com"}");
-
-  print("st1.name");
-  print("st2.name");
-  print("st3.name");
   
 }
 
