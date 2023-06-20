@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "solar_system",
+			"path": "../solar_system"
+		}
+	],
+	"settings": {}
+}
